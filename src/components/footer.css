@@ -1,0 +1,20 @@
+.main-footer{
+    color: white;
+    background-color: lightskyblue ;
+    padding-top: 3mm;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.col-sm{
+    padding-left: 90mm;
+    background-color: darkslategrey;
+    color:white ;
+    flex: auto;
+}
+
+.head{
+    padding-left: 10mm;
+}
